@@ -6,19 +6,20 @@ public:
         int right =0;
         int zeros = 0;
         int maxi = 0;
+        // bhai it is equivalent to longest subarray with only 2 zeros
         while(right<n){
             if(nums[right]==0){
                 zeros++;
             }
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[left]==0){
                     zeros--;
                 }
                 left++;
             }
 
-            maxi = max(maxi,right-left+1);
-            right++;
+           if(zeros<=k) maxi = max(maxi,right-left+1);
+        right++;
         }
         return maxi;
     }
