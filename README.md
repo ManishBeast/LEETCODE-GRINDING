@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0206-reverse-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 ## Divide and Conquer
