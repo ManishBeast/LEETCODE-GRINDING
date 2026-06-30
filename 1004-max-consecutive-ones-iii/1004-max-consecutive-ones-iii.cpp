@@ -10,13 +10,15 @@ public:
             if(nums[right]==0){
                 zeros++;
             }
-            while(zeros>k){
+            if(zeros>k){
                 if(nums[left]==0){
                     zeros--;
                 }
                 left++;
             }
+            if(zeros<=k){
             maxi = max(maxi,right-left+1);
+            }
             right++;
         }
         return maxi;
