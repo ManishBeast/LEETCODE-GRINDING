@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -81,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Union-Find
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Graph Theory
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
