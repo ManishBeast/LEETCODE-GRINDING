@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -141,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
