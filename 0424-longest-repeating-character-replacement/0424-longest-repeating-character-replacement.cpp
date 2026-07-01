@@ -11,11 +11,13 @@ public:
                 hash[s[right]-'A']++;
                 maxFreq = max(maxFreq,hash[s[right]-'A']);
                 int change = (right-left+1) - maxFreq;
-                while((right-left+1) - maxFreq>k){
+                if((right-left+1) - maxFreq>k){
                     hash[s[left]-'A']--;
                     left++;
                 }
+                if((right-left+1) - maxFreq<=k){
                 maxLen = max(maxLen,right-left+1);
+                }
                 right++;
         }
         return maxLen;
