@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -116,8 +119,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
