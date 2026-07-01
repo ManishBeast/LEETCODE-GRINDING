@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 ## Combinatorics
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
