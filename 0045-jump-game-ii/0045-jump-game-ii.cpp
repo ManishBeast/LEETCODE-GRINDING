@@ -1,19 +1,20 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> vis(n,INT_MAX);
-        vis[0]=0;
-        for(int i=0;i<nums.size();i++){
-            if(vis[i] == INT_MAX) continue;   // unreachable
-            int ch = nums[i];
-            int left = i+1;
-            while(ch>0 && left<n){
-                vis[left] = min(vis[left],vis[i]+1);
-                ch--;
-                left++;
-            }
+        int farthest =0;
+       int n = nums.size();
+       int jump=0;
+       int r = 0;
+       int l =0;
+      while(r<n-1){
+        farthest =0;
+        for(int i=l;i<=r;i++){
+            farthest = max(farthest,i+nums[i]);
         }
-        return vis[n-1];
+        l = r+1;
+        r=farthest;
+        jump = jump+1;
+      }
+      return jump;
     }
 };
