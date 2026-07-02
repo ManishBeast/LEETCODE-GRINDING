@@ -1,15 +1,24 @@
 class Solution {
 public:
-    int ans(string s,int ind,int cnt,vector<vector<int>> &dp){
-        if(cnt<0) return false;
-        if(ind==s.size()) return cnt==0;
-        if(dp[ind][cnt]!=-1) return dp[ind][cnt];
-        if(s[ind]==')') return dp[ind][cnt]=ans(s,ind+1,cnt-1,dp);
-        if(s[ind]=='(') return dp[ind][cnt]=ans(s,ind+1,cnt+1,dp);
-        return dp[ind][cnt]=ans(s,ind+1,cnt-1,dp)||ans(s,ind+1,cnt,dp)||ans(s,ind+1,cnt+1,dp);
-    }
+    
     bool checkValidString(string s) {
-        vector<vector<int>> dp(s.size(),vector<int>(s.size(),-1));
-        return ans(s,0,0,dp);
+        int max=0;
+        int min =0;
+        int n =s.size();
+        for(int i=0;i<n;i++){
+            if(s[i]=='(') {
+                max+=1;
+                min+=1;
+            }else if(s[i]==')'){
+                min-=1;
+                max-=1;
+            }else{
+                min-=1;
+                max+=1;
+            }
+            if(min<0) min=0;
+            if(max<0) return false; // bz this is only inxrease in every exacept * so if this negative means inspite of consideration of * this is false; 
+        }
+        return min==0;
     }
 };
