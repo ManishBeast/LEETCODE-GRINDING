@@ -1,28 +1,32 @@
 class Solution {
 public:
-    int candy(vector<int>& rating) {
-        int n= rating.size();
-        vector<int> left(n,1);
-        vector<int> right(n,1);
-        
-        // yeh sochna is difficult bro .....
-        // left se chekc krte chlo abd right se check krte chlo and bro done dono ka max lelo
-
-        for(int i=1;i<n;i++){
-            if(rating[i-1]<rating[i]){
-                left[i] = left[i-1]+1;
+    int candy(vector<int>& ratings) {
+        int sum = 1;
+        int i = 1;
+        int n = ratings.size();
+        if (n == 1) return 1;
+        while(i<n){
+            if(ratings[i]==ratings[i-1]){
+                sum+= 1;
+                i++;
+                continue;
+            }
+            int peak=1;
+            while(i<n && ratings[i]>ratings[i-1]){
+                peak+=1;
+                sum+=peak;
+                i++;
+            }
+            int down=1;
+            while(i<n && ratings[i]<ratings[i-1]){
+                sum+=down;
+                i++;
+                down++;
+            }
+            if(down>peak){
+                sum+= down-peak;
             }
         }
-
-        for(int i=n-2;i>=0;i--){
-            if(rating[i+1]<rating[i]){
-                right[i] = right[i+1]+1;
-            }
-        }
-        int ans=0;
-        for(int i=0;i<left.size();i++){
-            ans+=max(left[i],right[i]);
-        }
-        return ans;
+        return sum;
     }
 };
