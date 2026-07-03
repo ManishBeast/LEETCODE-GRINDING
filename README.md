@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sliding Window
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Combinatorics
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -182,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
