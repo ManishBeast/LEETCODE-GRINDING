@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        map<int,int> freq;
+        unordered_map<int,int> freq;
         for(auto it:nums) freq[it]++;
         priority_queue<pair<int,int>> pq;
         for(auto it:freq){
