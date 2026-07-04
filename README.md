@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0424-longest-repeating-character-replacement) |
+| [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Merge Sort
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
