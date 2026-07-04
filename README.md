@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0057-insert-interval) |
@@ -243,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
