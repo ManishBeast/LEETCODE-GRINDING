@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
+| [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
