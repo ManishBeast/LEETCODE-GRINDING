@@ -22,7 +22,7 @@ public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         if (1LL * m * k > bloomDay.size())
             return -1; //yeh bhi likhna h as u are assignning left and right something something so if contrain hi satisfied nhi h then u can't help right.
-        int left = 1;
+        int left = *min_element(bloomDay.begin(),bloomDay.end());
         int right = *max_element(bloomDay.begin(),bloomDay.end());
         while(left<right){
             int mid = (right-left)/2+left;
