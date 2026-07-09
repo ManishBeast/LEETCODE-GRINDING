@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
+| [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
