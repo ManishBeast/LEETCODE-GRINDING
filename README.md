@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Sliding Window
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Combinatorics
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
@@ -249,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -293,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
