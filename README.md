@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 ## Simulation
