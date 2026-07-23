@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0151-reverse-words-in-a-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
