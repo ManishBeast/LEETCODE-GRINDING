@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0061-rotate-list) |
