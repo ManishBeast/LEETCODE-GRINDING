@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0344-reverse-string) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
