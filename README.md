@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0424-longest-repeating-character-replacement) |
 | [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 ## Data Stream
 |  |
 | ------- |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
