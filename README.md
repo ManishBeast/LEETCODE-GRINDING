@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
