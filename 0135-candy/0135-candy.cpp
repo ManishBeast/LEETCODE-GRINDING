@@ -1,32 +1,27 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        int sum = 1;
-        int i = 1;
         int n = ratings.size();
-        if (n == 1) return 1;
-        while(i<n){
-            if(ratings[i]==ratings[i-1]){
-                sum+= 1;
-                i++;
-                continue;
-            }
-            int peak=1;
-            while(i<n && ratings[i]>ratings[i-1]){
-                peak+=1;
-                sum+=peak;
-                i++;
-            }
-            int down=1;
-            while(i<n && ratings[i]<ratings[i-1]){
-                sum+=down;
-                i++;
-                down++;
-            }
-            if(down>peak){
-                sum+= down-peak;
-            }
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+        for(int i=0;i<ratings.size();i++){
+            pq.push({ratings[i],i});
         }
-        return sum;
+        vector<int> ans(n,1);
+        while(!pq.empty()){
+            auto[node,idx] = pq.top();
+            pq.pop();
+            if(idx>0 && ratings[idx]>ratings[idx-1]){
+                ans[idx] = max(ans[idx],ans[idx-1]+1);
+            } 
+
+            if(idx<n-1 && ratings[idx]>ratings[idx+1]){
+                ans[idx] = max(ans[idx],ans[idx+1]+1);
+            } 
+    }
+    int x =0;
+    for(auto &it:ans){
+        x+=it;
+    }
+    return x;
     }
 };
