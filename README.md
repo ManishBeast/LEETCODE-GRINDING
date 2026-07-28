@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
 | ------- |
