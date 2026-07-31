@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Binary Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Quickselect
 |  |
 | ------- |
