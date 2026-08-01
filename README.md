@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
