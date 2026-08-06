@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1109-corporate-flight-bookings) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
