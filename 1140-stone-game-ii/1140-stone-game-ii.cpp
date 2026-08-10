@@ -1,6 +1,6 @@
 class Solution {
 private:
-    int memo[101][101];
+    vector<vector<int>> dp;
     vector<int> suffixSum;
     int n;
 
@@ -9,9 +9,7 @@ private:
             return suffixSum[i];
         }
 
-        if (memo[i][M] != 0) {
-            return memo[i][M];
-        }
+        if (dp[i][M] != -1) return dp[i][M];
 
         int maxStones = 0;
 
@@ -21,23 +19,17 @@ private:
             maxStones = max(maxStones, currentStones);
         }
 
-        return memo[i][M] = maxStones;
+        return dp[i][M] = maxStones;
     }
 
 public:
     int stoneGameII(vector<int>& piles) {
         n = piles.size();
         suffixSum.resize(n);
-
-        suffixSum[n - 1] = piles[n - 1];
-        for (int i = n - 2; i >= 0; --i) {
-            suffixSum[i] = suffixSum[i + 1] + piles[i];
-        }
-
-        for (int i = 0; i < n; ++i) {
-            for (int j = 0; j <= n; ++j) {
-                memo[i][j] = 0;
-            }
+        dp.assign(n+1,vector<int>(n+1,-1));
+        suffixSum[n-1] = piles[n-1];
+        for(int i=n-2;i>=0;i--){
+            suffixSum[i] = suffixSum[i+1]+piles[i];
         }
 
         return solve(0, 1);
