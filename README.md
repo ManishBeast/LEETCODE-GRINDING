@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0221-maximal-square) |
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
+| [0221-maximal-square](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
+| [0221-maximal-square](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0221-maximal-square) |
 | [1260-shift-2d-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
