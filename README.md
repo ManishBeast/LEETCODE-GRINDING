@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0344-reverse-string) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -559,4 +564,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
