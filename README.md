@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3518-smallest-palindromic-rearrangement-ii) |
