@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0097-interleaving-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0132-palindrome-partitioning-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
@@ -468,12 +470,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3513-number-of-unique-xor-triplets-i) |
