@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0355-design-twitter) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0380-insert-delete-getrandom-o1) |
@@ -544,4 +547,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
