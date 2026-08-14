@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1109-corporate-flight-bookings) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
@@ -588,4 +591,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
