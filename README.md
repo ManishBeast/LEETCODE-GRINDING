@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
+| [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
