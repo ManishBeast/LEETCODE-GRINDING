@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0875-koko-eating-bananas](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1004-max-consecutive-ones-iii) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
