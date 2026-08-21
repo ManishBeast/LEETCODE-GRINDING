@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
+| [4020-elevator-requests-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/4020-elevator-requests-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4020-elevator-requests-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/4020-elevator-requests-i) |
 ## Bit Manipulation
 |  |
 | ------- |
