@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
