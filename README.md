@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
