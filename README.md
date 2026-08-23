@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
