@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
