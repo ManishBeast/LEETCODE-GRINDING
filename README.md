@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
