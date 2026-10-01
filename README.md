@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
