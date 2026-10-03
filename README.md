@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0079-word-search) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0055-jump-game) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
