@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2063-vowels-of-all-substrings](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2063-vowels-of-all-substrings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3312-sorted-gcd-pair-queries) |
@@ -470,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -496,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -521,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Heap (Priority Queue)
 |  |
@@ -782,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -803,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -821,4 +831,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
