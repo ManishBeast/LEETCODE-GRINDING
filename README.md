@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3312-sorted-gcd-pair-queries) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/1872-stone-game-viii) |
