@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 | [4020-elevator-requests-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/4020-elevator-requests-i) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Combinatorics
 |  |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ManishBeast/LEETCODE-GRINDING/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
